@@ -1,5 +1,5 @@
 import streamlit as st 
-import openai
+#import openai
 
 st.write("its my first App")
 
