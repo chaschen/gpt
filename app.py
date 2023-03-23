@@ -1,4 +1,4 @@
 import streamlit as st 
-import openai
+import pandas
 
 print("hello worl")
