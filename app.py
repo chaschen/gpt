@@ -10,7 +10,7 @@ def show_message(text):
   text.text_area("messages", value = str("\n\n".join(messages_str)), height=400 )
   
   
- BASE_PROMPT = [{"role":"system", "content":"your assistant."}]
+BASE_PROMPT = [{"role":"system", "content":"your assistant."}]
 
 st.subheader("ChatGpt from Chaschen")
 
